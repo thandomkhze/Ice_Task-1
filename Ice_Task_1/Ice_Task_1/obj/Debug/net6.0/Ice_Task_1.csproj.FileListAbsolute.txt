@@ -1,0 +1,15 @@
+C:\Users\h\source\repos\Ice_Task_1\Ice_Task_1\bin\Debug\net6.0\Ice_Task_1.exe
+C:\Users\h\source\repos\Ice_Task_1\Ice_Task_1\bin\Debug\net6.0\Ice_Task_1.deps.json
+C:\Users\h\source\repos\Ice_Task_1\Ice_Task_1\bin\Debug\net6.0\Ice_Task_1.runtimeconfig.json
+C:\Users\h\source\repos\Ice_Task_1\Ice_Task_1\bin\Debug\net6.0\Ice_Task_1.dll
+C:\Users\h\source\repos\Ice_Task_1\Ice_Task_1\bin\Debug\net6.0\Ice_Task_1.pdb
+C:\Users\h\source\repos\Ice_Task_1\Ice_Task_1\obj\Debug\net6.0\Ice_Task_1.csproj.AssemblyReference.cache
+C:\Users\h\source\repos\Ice_Task_1\Ice_Task_1\obj\Debug\net6.0\Ice_Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h\source\repos\Ice_Task_1\Ice_Task_1\obj\Debug\net6.0\Ice_Task_1.AssemblyInfoInputs.cache
+C:\Users\h\source\repos\Ice_Task_1\Ice_Task_1\obj\Debug\net6.0\Ice_Task_1.AssemblyInfo.cs
+C:\Users\h\source\repos\Ice_Task_1\Ice_Task_1\obj\Debug\net6.0\Ice_Task_1.csproj.CoreCompileInputs.cache
+C:\Users\h\source\repos\Ice_Task_1\Ice_Task_1\obj\Debug\net6.0\Ice_Task_1.dll
+C:\Users\h\source\repos\Ice_Task_1\Ice_Task_1\obj\Debug\net6.0\refint\Ice_Task_1.dll
+C:\Users\h\source\repos\Ice_Task_1\Ice_Task_1\obj\Debug\net6.0\Ice_Task_1.pdb
+C:\Users\h\source\repos\Ice_Task_1\Ice_Task_1\obj\Debug\net6.0\Ice_Task_1.genruntimeconfig.cache
+C:\Users\h\source\repos\Ice_Task_1\Ice_Task_1\obj\Debug\net6.0\ref\Ice_Task_1.dll
